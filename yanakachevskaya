@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Comparison</title>
+</head>
+<body>
+
+    <h1>Comparison of Laptops</h1>
+    
+    <!-- Laptop Comparison Table -->
+    <table border="1">
+        <caption>Comparison of Three Laptop Models</caption>
+        <tr>
+            <th rowspan="2">Model</th>
+            <th colspan="2">Specifications</th>
+            <th rowspan="2">Price ($)</th>
+        </tr>
+        <tr>
+            <th>Processor</th>
+            <th>Storage</th>
+        </tr>
+        <tr>
+            <td>Alpha 1</td>
+            <td>Intel i5</td>
+            <td>512 GB SSD</td>
+            <td>800</td>
+        </tr>
+        <tr>
+            <td>Bravo 2</td>
+            <td>Intel i7</td>
+            <td>1 TB SSD</td>
+            <td>1200</td>
+        </tr>
+        <tr>
+            <td>Charlie 3</td>
+            <td>Intel i9</td>
+            <td>2 TB SSD</td>
+            <td>1500</td>
+        </tr>
+    </table>
+
+    <!-- List of Takeaways -->
+    <h2>Key Takeaways</h2>
+    <ul>
+        <li>Model Charlie 3 is the most expensive but offers the highest storage and best processor.</li>
+        <li>Model Alpha 1 provides a budget-friendly option with moderate specs.</li>
+        <li>All models use Intel processors, with increasing power from i5 to i9 as the price rises.</li>
+    </ul>
+
+    <!-- Illustration of Woman Typing -->
+    <figure>
+        <img src="https://example.com/typing_woman.jpg" alt="Young woman typing on a typewriter" width="300">
+        <figcaption>A young woman typing on a typewriter</figcaption>
+    </figure>
+
+</body>
+</html>
